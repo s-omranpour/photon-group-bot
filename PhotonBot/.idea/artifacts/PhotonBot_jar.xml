@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhotonBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhotonBot_jar</output-path>
+    <root id="archive" name="PhotonBot.jar">
+      <element id="module-output" name="PhotonBot" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/telegrambots-3.1.2-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
